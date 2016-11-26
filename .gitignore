@@ -93,3 +93,15 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#=======================
+# Executable files
+*.exe
+
+#=======================
+# tni assembler
+tniasm.*
+
+#=======================
+# other
+aredbook.txt
